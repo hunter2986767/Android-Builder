@@ -1,10 +1,10 @@
 [
     {
         "kernelSource": {
-            "name": "Mi CC 9e",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-            "branch": "laurus-q-oss",
-            "device": "laurus-q-oss",
+            "name": "INFINIX NOTE 30 VIP",
+            "repo": "https://github.com/hunter2986767/device_infinix_X6833B-kernel",
+            "branch": "INFINIX NOTE 30 VIP",
+            "device": "INFINIX NOTE 30 VIP",
             "defconfig": "vendor/wayne_defconfig"
         },
         "toolchains": [
