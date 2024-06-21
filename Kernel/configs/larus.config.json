@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "INFINIX NOTE 30 VIP",
-            "repo": "https://github.com/hunter2986767/device_infinix_X6833B-kernel.git",
+            "repo": "https://github.com/OpenSource-Infinix/android_kernel-3.18",
             "branch": "INFINIX NOTE 30 VIP",
             "device": "INFINIX NOTE 30 VIP",
             "defconfig": "vendor/wayne_defconfig"
